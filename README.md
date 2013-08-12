@@ -5,18 +5,6 @@ A todo app built using [Meteor](http://meteor.com) including authentication, ins
 
 Demo online: http://todomvc-auth.meteor.com
 
-Setup
-=======
-
-* Install Meteor ```$ curl install.meteor.com | /bin/sh```
-* $ cd meteor
-* $ meteor
-
-The app should now be running on http://localhost:3000/
-
-To deploy to meteor.com simply do this:
-
-```$ meteor deploy myapp.meteor.com```
 
 Credits
 =======
@@ -25,7 +13,9 @@ Credits
 - Meteor from [Meteor](http://meteor.com)
 - This app by [MStumpp](https://github.com/MStumpp)
 
+- Modified by Jackson Lin
+
 License
 =======
 
-Public Domain
+Public Domain-ish
